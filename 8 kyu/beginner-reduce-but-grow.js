@@ -11,4 +11,4 @@ function grow(x) {
   return total;
 }
 
-console.log(grow([2, 2, 2, 2, 2, 2]));
+console.log(grow([2, 2, 2, 2, 2, 2, 2]));
